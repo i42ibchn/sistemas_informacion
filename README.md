@@ -10,9 +10,10 @@ El objetivo de este repositorio es probar la integración entre GitHub y Slack, 
 - Pruebas de commits para verificar la integración
 
 ## Integrantes del grupo
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
+- Nicol Yuliana Ibagón Chavez
+- Alejandro Hiedra Jurado
+- Elsa López Muñoz
+-Marina López Díaz
 
 ## Pruebas realizadas
 Se han realizado modificaciones en este archivo para comprobar que los cambios se reflejan correctamente en Slack mediante notificaciones automáticas.
