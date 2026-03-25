@@ -1,5 +1,5 @@
 # Sistemas de Información - Práctica Slack-GitHub
-
+Prueba de integración con Slack
 Este repositorio ha sido creado como parte de la práctica de la asignatura Sistemas de Información.
 
 ## Objetivo
